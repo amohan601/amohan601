@@ -1,8 +1,10 @@
+## Hey there 👋, I'm [Anju!](https://github.com/amohan601/)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anju-mohan)
 
-<h1>Hello</h1>
+### Glad to see you here! 
 
-<p>Welcome to my GitHub page! </br> I'm Anju, a Senior backend engineer with application and data pipeline experience with <b>Mastech Digital</b></p>
+I'm Anju, a Senior backend engineer with application and data pipeline experience for Cigna Insurance with Mastech Digital</p>
 
 <p> My profile summary </p>
 As a results-driven Senior Software Engineer, my expertise lies in backend design, development, and agile methodologies. I have a proven track record of successfully delivering intricate projects and optimizing performance. My hands-on experience encompasses designing and developing data-driven backend pipelines and application systems using Java/J2EE technologies, cloud technologies, Spring Boot, Microservices, Apache Kafka, and containerization tools like Openshift Kubernetes.
@@ -11,7 +13,7 @@ My passion extends to understanding and solving problems within the big data and
 
 I excel in seamlessly transitioning into the field of machine learning, leveraging my strong foundation in software engineering. My goal is to contribute to groundbreaking solutions, bridging the gap between software development and the exciting realm of machine learning.
 
-<h3><b>My Skillset </b></h3>
+### Languages and Tools:
 
 [![My Skills](https://skillicons.dev/icons?i=aws,java,nodejs,py,go,kafka,mongodb,maven,postgres,postman,docker,eclipse,visualstudio,git,jenkins,kubernetes,openshift,sklearn&perline=20)](https://skillicons.dev)
 
