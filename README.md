@@ -11,5 +11,5 @@ My passion extends to understanding and solving problems within the big data and
 I excel in seamlessly transitioning into the field of machine learning, leveraging my strong foundation in software engineering. My goal is to contribute to groundbreaking solutions, bridging the gap between software development and the exciting realm of machine learning.
 
 <p>My Skillset/Tech Stack I worked on</p>
-[![My Skills](https://skillicons.dev/icons?i=aws,java,nodejs,kafka,MongoDB,maven,postgres,postman,sklearn&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,java,nodejs,py,kafka,MongoDB,maven,postgres,postman,sklearn&perline=15)](https://skillicons.dev)
 
