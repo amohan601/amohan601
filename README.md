@@ -1,6 +1,7 @@
 ## Hey there 👋, I'm [Anju!](https://github.com/amohan601/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anju-mohan)
+[![MyPortfolio Badge](https://img.shields.io/badge/-MyPortfolio-0e7333?style=flat-square&logo=MyPortfolio&logoColor=blue)](https://amohan601.github.io/)
 
 ### Glad to see you here! 
 
