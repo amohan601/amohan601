@@ -1,5 +1,6 @@
-<h1>Hello</h1>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/anju-mohan)
 
+<h1>Hello</h1>
 
 <p>Welcome to my GitHub page! </br> I'm Anju, a Senior backend engineer with application and data pipeline experience with <b>Mastech Digital</b></p>
 
