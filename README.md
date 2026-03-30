@@ -9,7 +9,7 @@ I'm Anju, a Senior backend engineer with application , cloud, and data pipeline 
 
 <p> My profile summary </p>
 Senior engineering professional with 10+ years of experience designing and delivering scalable AWS cloud-native applications, distributed microservices, and enterprise data platforms. Strong expertise in AWS-based architecture, event-driven systems, and large-scale ETL pipelines (batch and streaming). Proven ability to lead cross-functional teams to deliver secure, high-performance solutions aligned with enterprise standards, regulatory requirements, and operational excellence.
-\
+
 My passion extends to understanding and solving problems within the big data and machine learning domains. I bring valuable experience in Supervised learning, Unsupervised learning, and Reinforcement learning, gained through involvement in academic research projects. Proficient in Python, Numpy, Sklearn, Pandas, and various Machine Learning tools, I am dedicated to driving innovation and contributing expertise to both software development and machine learning realms.
 
 I excel in seamlessly transitioning into the field of machine learning, leveraging my strong foundation in software engineering. My goal is to contribute to groundbreaking solutions, bridging the gap between software development and the exciting realm of machine learning.
